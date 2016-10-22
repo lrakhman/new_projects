@@ -1,3 +1,0 @@
-1. nose
-2. peets
-3. whiskers
